@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Theme.MapChat" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Theme.Homework9" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="colorPrimary">@color/primary</item>
-        <item name="colorPrimaryContainer">@color/message_outgoing</item>
+        <item name="colorPrimaryContainer">@color/placeholder</item>
         <item name="colorOnPrimary">@android:color/white</item>
         <item name="colorSecondary">@color/secondary</item>
         <item name="android:statusBarColor" tools:targetApi="l">@color/screen_background</item>
